@@ -7,6 +7,7 @@ export const TYPES = {
   SanitizerService: Symbol.for('SanitizerService'),
   DetectorService: Symbol.for('DetectorService'),
   PolicyService: Symbol.for('PolicyService'),
+  SecurityOrchestrator: Symbol.for('SecurityOrchestrator'),
   ThreatLogService: Symbol.for('ThreatLogService'),
 
   // Database
